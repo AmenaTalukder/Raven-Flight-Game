@@ -6,13 +6,13 @@ In Raven Flight, players embark on an exhilarating journey through a dynamically
 <br>
 <br>
 ## Gameplay Mechanics:
-<br>Objective: Shoot down ravens to earn points and avoid letting them escape off-screen.
+## <br>Objective: Shoot down ravens to earn points and avoid letting them escape off-screen.
 <br>
-Scoring: For every raven hit, players earn points that contribute to their overall score. Every 30 points earned increases the game level by 1.
+## Scoring: For every raven hit, players earn points that contribute to their overall score. Every 30 points earned increases the game level by 1.
 <br>
-Leveling System: As players reach new levels (every 30 points), the game becomes increasingly challenging. Each new level brings a 0.5x increase in game speed, making ravens move faster and appear more frequently.
+## Leveling System: As players reach new levels (every 30 points), the game becomes increasingly challenging. Each new level brings a 0.5x increase in game speed, making ravens move faster and appear more frequently.
 <br>
-Visuals and Audio: The game features smooth sprite animations, dynamic background visuals, and sound effects that enhance the immersive experience. Explosions occur when ravens are hit, adding to the excitement.
+## Visuals and Audio: The game features smooth sprite animations, dynamic background visuals, and sound effects that enhance the immersive experience. Explosions occur when ravens are hit, adding to the excitement.
 <br>
 Controls: Players use their mouse to aim and click to shoot down ravens. The game also includes pause, run, and quit buttons for easy control during gameplay.
 <br>
